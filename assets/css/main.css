@@ -8021,7 +8021,7 @@ body:not(.event-like-and-share-buttons) .event-meta-socialicon-container{
 }
 .sqs-gallery-block-grid .slide{
 	float:left;
-	width:25%
+	width:33%
 }
 .sqs-gallery-block-grid .slide .margin-wrapper{
 	position:relative
@@ -14976,7 +14976,7 @@ html:not(.no-js) .index-section:first-of-type .index-section-image img,html:not(
 	transition:opacity .3s ease-out
 }
 html:not(.no-js) .index-section:first-of-type .index-section-image img:not(.loaded),html:not(.no-js) .index-section:first-of-type .sqs-block-image img[data-load="false"]:not(.loaded){
-	
+
 }
 .collection-type-index.design-grid .index-gallery .gallery-wrapper{
 	display:-webkit-flex;
