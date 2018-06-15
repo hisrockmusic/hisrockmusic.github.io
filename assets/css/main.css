@@ -14976,7 +14976,7 @@ html:not(.no-js) .index-section:first-of-type .index-section-image img,html:not(
 	transition:opacity .3s ease-out
 }
 html:not(.no-js) .index-section:first-of-type .index-section-image img:not(.loaded),html:not(.no-js) .index-section:first-of-type .sqs-block-image img[data-load="false"]:not(.loaded){
-	opacity:0
+	
 }
 .collection-type-index.design-grid .index-gallery .gallery-wrapper{
 	display:-webkit-flex;
