@@ -1,3 +1,3 @@
-# hisrockmusic.github.io
+# hisrockmusic.com
 
 This is the code for hisrockmusic.com.
